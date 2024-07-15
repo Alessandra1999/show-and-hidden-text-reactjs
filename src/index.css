@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
+
+body {
+  text-align: center;
+  background-color: #f0e2be;
+}
+
+p {
+  margin: 50px;
+  font-family: "Pacifico", cursive;
+  color: #493443;
+  font-size: 1.2em;
+}
+
+button {
+  margin-top: 50px;
+  padding: 15px;
+  border: none;
+  border-radius: 10px;
+  background-color: #f0b49e;
+  color: #eb6077;
+  font-size: 1.2em;
+  font-weight: 600;
+}
